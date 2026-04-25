@@ -2,7 +2,7 @@
   <h3>Hi there, I'm Maciek! 👋</h3>
 </div>
 
-<table align="right">
+<!-- <table align="right">
   <tr>
     <td align="center" width="100">
       <b>Languages</b>
@@ -20,7 +20,7 @@
       ★★★★★
     </td>
   </tr>
-</table>
+</table> -->
 
 I am a 3rd-year **Applied Computer Science** student at **Lodz University of Technology** (FTIMS). My work focuses on the intersection of **Artificial Intelligence**, **Computer Vision**, and **Autonomous Systems**. I thrive on transforming complex research into functional code.
 
